@@ -4,11 +4,13 @@
     {
         public static void Main(string[] args)
         {
-             //SwapTwoNumber.DisplaySwapedNumbers();
-             //LargestNumbers.FindLargest();
-             //FindQuotientAndRemainder.FindQuotientandRemainder();
-             //VowelsOrConsonants.VowelsorConsonants();
-             //NumberIsEvenOrOdd.NumberisEvenorOdd();
+            //SwapTwoNumber.DisplaySwapedNumbers();
+            //LargestNumbers.FindLargest();
+            //FindQuotientAndRemainder.FindQuotientandRemainder();
+            //VowelsOrConsonants.VowelsorConsonants();
+            //NumberIsEvenOrOdd.NumberisEvenorOdd();
+            //PerfectNumberProblem.FindPerfectNumber();
+            ReverseTheNumber.ReversetheNumbers();
         }
     }
 }
