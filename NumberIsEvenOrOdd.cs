@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BasicCorePrograms
 {
-    internal class NumberIs_EvenOrOdd
+    internal class NumberIsEvenOrOdd
     {
         public static void NumberisEvenorOdd()
         {

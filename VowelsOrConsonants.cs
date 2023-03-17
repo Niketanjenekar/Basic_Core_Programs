@@ -23,7 +23,7 @@ namespace BasicCorePrograms
             else if((ch >= 'A' && ch <= 'Z') || (ch >= 'a' && ch <= 'z'))
             {
 
-                Console.WriteLine("The Letter" + ch + " you entered is a consonant");
+                Console.WriteLine("The Letter " + ch + " you entered is a Consonant");
             }
 
 

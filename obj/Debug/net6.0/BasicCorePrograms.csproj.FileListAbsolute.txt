@@ -1,0 +1,15 @@
+C:\Users\niket\source\repos\BasicCorePrograms\BasicCorePrograms\bin\Debug\net6.0\BasicCorePrograms.exe
+C:\Users\niket\source\repos\BasicCorePrograms\BasicCorePrograms\bin\Debug\net6.0\BasicCorePrograms.deps.json
+C:\Users\niket\source\repos\BasicCorePrograms\BasicCorePrograms\bin\Debug\net6.0\BasicCorePrograms.runtimeconfig.json
+C:\Users\niket\source\repos\BasicCorePrograms\BasicCorePrograms\bin\Debug\net6.0\BasicCorePrograms.dll
+C:\Users\niket\source\repos\BasicCorePrograms\BasicCorePrograms\bin\Debug\net6.0\BasicCorePrograms.pdb
+C:\Users\niket\source\repos\BasicCorePrograms\BasicCorePrograms\obj\Debug\net6.0\BasicCorePrograms.csproj.AssemblyReference.cache
+C:\Users\niket\source\repos\BasicCorePrograms\BasicCorePrograms\obj\Debug\net6.0\BasicCorePrograms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niket\source\repos\BasicCorePrograms\BasicCorePrograms\obj\Debug\net6.0\BasicCorePrograms.AssemblyInfoInputs.cache
+C:\Users\niket\source\repos\BasicCorePrograms\BasicCorePrograms\obj\Debug\net6.0\BasicCorePrograms.AssemblyInfo.cs
+C:\Users\niket\source\repos\BasicCorePrograms\BasicCorePrograms\obj\Debug\net6.0\BasicCorePrograms.csproj.CoreCompileInputs.cache
+C:\Users\niket\source\repos\BasicCorePrograms\BasicCorePrograms\obj\Debug\net6.0\BasicCorePrograms.dll
+C:\Users\niket\source\repos\BasicCorePrograms\BasicCorePrograms\obj\Debug\net6.0\refint\BasicCorePrograms.dll
+C:\Users\niket\source\repos\BasicCorePrograms\BasicCorePrograms\obj\Debug\net6.0\BasicCorePrograms.pdb
+C:\Users\niket\source\repos\BasicCorePrograms\BasicCorePrograms\obj\Debug\net6.0\BasicCorePrograms.genruntimeconfig.cache
+C:\Users\niket\source\repos\BasicCorePrograms\BasicCorePrograms\obj\Debug\net6.0\ref\BasicCorePrograms.dll
